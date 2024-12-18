@@ -1,5 +1,5 @@
 import streamlit as st
-inport sentence_transformers
+import sentence_transformers
 from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
